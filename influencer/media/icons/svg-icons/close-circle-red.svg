@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+    <g id="tb_close----" data-name="Group 1" transform="translate(1 1)">
+        <circle id="tb_Ellipse_1" data-name="Ellipse 1" cx="9" cy="9" r="9" transform="translate(-1 -1)" fill="#db4b20" />
+        <rect id="tb_Rectangle_1" data-name="Rectangle 1" width="11.893" height="1.487" rx="0.743" transform="translate(4.321 3.27) rotate(45)" fill="#fff" />
+        <rect id="tb_Rectangle_2" data-name="Rectangle 2" width="11.893" height="1.487" rx="0.743" transform="translate(12.73 4.321) rotate(135)" fill="#fff" />
+    </g>
+</svg>
