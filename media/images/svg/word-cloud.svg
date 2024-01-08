@@ -1,0 +1,892 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="group"
+    style="width: 100%; height: 100%; overflow: visible;">
+    <defs>
+        <clipPath id="id-1335">
+            <rect width="598" height="370"></rect>
+        </clipPath>
+        <linearGradient id="gradient-id-1354" x1="1%" x2="99%" y1="59%" y2="41%">
+            <stop stop-color="#474758" offset="0"></stop>
+            <stop stop-color="#474758" stop-opacity="1" offset="0.75"></stop>
+            <stop stop-color="#3cabff" stop-opacity="1" offset="0.755"></stop>
+        </linearGradient>
+        <clipPath id="id-1376"></clipPath>
+        <filter id="filter-id-1340" filterUnits="objectBoundingBox" width="200%" height="200%" x="-50%" y="-50%">
+            <feGaussianBlur result="blurOut" in="SourceGraphic" stdDeviation="1.5"></feGaussianBlur>
+            <feOffset result="offsetBlur" dx="1" dy="1"></feOffset>
+            <feFlood flood-color="#000000" flood-opacity="0.5"></feFlood>
+            <feComposite in2="offsetBlur" operator="in"></feComposite>
+            <feMerge>
+                <feMergeNode></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter id="filter-id-1351" filterUnits="objectBoundingBox" width="120%" height="120%" x="-10%" y="-10%">
+            <feColorMatrix type="saturate" values="0"></feColorMatrix>
+        </filter>
+        <filter id="filter-id-1381" filterUnits="objectBoundingBox" width="200%" height="200%" x="-50%" y="-50%">
+            <feGaussianBlur result="blurOut" in="SourceGraphic" stdDeviation="1.5"></feGaussianBlur>
+            <feOffset result="offsetBlur" dx="1" dy="1"></feOffset>
+            <feFlood flood-color="#000000" flood-opacity="0.5"></feFlood>
+            <feComposite in2="offsetBlur" operator="in"></feComposite>
+            <feMerge>
+                <feMergeNode></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g>
+        <g fill="#ffffff" fill-opacity="0">
+            <rect width="598" height="370"></rect>
+        </g>
+        <g>
+            <g role="region" clip-path="url(&quot;#id-1335&quot;)" opacity="1" aria-label="Chart">
+                <g>
+                    <g>
+                        <g>
+                            <g>
+                                <g>
+                                    <g>
+                                        <g>
+                                            <g role="group" aria-label="Series">
+                                                <g>
+                                                    <g clip-path="url(&quot;#id-1376&quot;)">
+                                                        <g></g>
+                                                    </g>
+                                                    <g></g>
+                                                    <g></g>
+                                                    <g transform="translate(299,185)">
+                                                        <g>
+                                                            <g fill-opacity="0.1" stroke-opacity="1" stroke="#000000">
+                                                            </g>
+                                                            <g fill="currentColor" font-size="40.7"
+                                                                transform="translate(0,0)" id="id-1491">
+                                                                <g transform="translate(-39.5,-25)"
+                                                                    style="user-select: none;"><text x="0" y="49.5"
+                                                                        dy="-13.365">
+                                                                        <tspan>love</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="36.47887323943662"
+                                                                transform="translate(76.343,30.619)" id="id-1493">
+                                                                <g transform="translate(-25,-22.5)"
+                                                                    style="user-select: none;"><text x="0" y="44.5"
+                                                                        dy="-12.015">
+                                                                        <tspan>icc</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="32.257746478873244"
+                                                                transform="translate(-33.866,-48.134)" id="id-1495">
+                                                                <g transform="translate(-51.5,-19.5)"
+                                                                    style="user-select: none;"><text x="0" y="39"
+                                                                        dy="-10.53">
+                                                                        <tspan>cricket</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="31.788732394366207"
+                                                                transform="translate(116.265,-40.601)" id="id-1497">
+                                                                <g transform="translate(-64.5,-19.5)"
+                                                                    style="user-select: none;"><text x="0" y="38.5"
+                                                                        dy="-10.395">
+                                                                        <tspan>shoplctv</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="29.44366197183099"
+                                                                transform="translate(6.654,38.716)" id="id-1499">
+                                                                <g transform="translate(-16,-18)"
+                                                                    style="user-select: none;"><text x="0" y="35.5"
+                                                                        dy="-9.585">
+                                                                        <tspan>ipl</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="28.505633802816902"
+                                                                transform="translate(-111.124,36.803)" id="id-1501">
+                                                                <g transform="translate(-61.5,-17.5)"
+                                                                    style="user-select: none;"><text x="0" y="34.5"
+                                                                        dy="-9.315">
+                                                                        <tspan>viratkohli</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="28.036619718309858"
+                                                                transform="translate(-96.542,-8.256)" id="id-1503">
+                                                                <g transform="translate(-28,-17)"
+                                                                    style="user-select: none;"><text x="0" y="34"
+                                                                        dy="-9.18">
+                                                                        <tspan>bcci</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="26.62957746478874"
+                                                                transform="translate(-14.695,76.023)">
+                                                                <g transform="translate(-80.5,-16.5)"
+                                                                    style="user-select: none;"><text x="0" y="32.5"
+                                                                        dy="-8.775">
+                                                                        <tspan>indiancricket</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="26.62957746478874"
+                                                                transform="translate(119.544,-2.59)" id="id-1507">
+                                                                <g transform="translate(-54,-16.5)"
+                                                                    style="user-select: none;"><text x="0" y="32.5"
+                                                                        dy="-8.775">
+                                                                        <tspan>msdhoni</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="25.69154929577465"
+                                                                transform="translate(139.992,34.463)" id="id-1509">
+                                                                <g transform="translate(-34,-15.5)"
+                                                                    style="user-select: none;"><text x="0" y="31"
+                                                                        dy="-8.37">
+                                                                        <tspan>dhoni</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="25.69154929577465"
+                                                                transform="translate(-67.661,-79.239)" id="id-1511">
+                                                                <g transform="translate(-72.5,-15.5)"
+                                                                    style="user-select: none;"><text x="0" y="31"
+                                                                        dy="-8.37">
+                                                                        <tspan>rohitsharma</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="25.222535211267605"
+                                                                transform="translate(109.406,-74.584)" id="id-1513">
+                                                                <g transform="translate(-58.5,-15.5)"
+                                                                    style="user-select: none;"><text x="0" y="30.5"
+                                                                        dy="-8.235">
+                                                                        <tspan>teamindia</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="24.753521126760567"
+                                                                transform="translate(-6.521,104.258)" id="id-1515">
+                                                                <g transform="translate(-104,-15)"
+                                                                    style="user-select: none;"><text x="0" y="30"
+                                                                        dy="-8.1">
+                                                                        <tspan>indiancricketteam</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="24.284507042253523"
+                                                                transform="translate(97.414,72.074)">
+                                                                <g transform="translate(-27.5,-15)"
+                                                                    style="user-select: none;"><text x="0" y="29.5"
+                                                                        dy="-7.965">
+                                                                        <tspan>india</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="23.81549295774648"
+                                                                transform="translate(-143.249,-41.718)">
+                                                                <g transform="translate(-53.5,-14.5)"
+                                                                    style="user-select: none;"><text x="0" y="29"
+                                                                        dy="-7.83">
+                                                                        <tspan>weshoplc</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="23.346478873239437"
+                                                                transform="translate(-170.987,-14.663)">
+                                                                <g transform="translate(-28,-14)"
+                                                                    style="user-select: none;"><text x="0" y="28"
+                                                                        dy="-7.56">
+                                                                        <tspan>code</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="22.408450704225356"
+                                                                transform="translate(-9.893,-108.67)">
+                                                                <g transform="translate(-68,-13.5)"
+                                                                    style="user-select: none;"><text x="0" y="27"
+                                                                        dy="-7.29">
+                                                                        <tspan>cricketlovers</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="21.00140845070423"
+                                                                transform="translate(-201.032,12.716)" id="id-1525">
+                                                                <g transform="translate(-44.5,-13)"
+                                                                    style="user-select: none;"><text x="0" y="25.5"
+                                                                        dy="-6.885">
+                                                                        <tspan>necklace</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="20.532394366197185"
+                                                                transform="translate(-136.091,63.799)" id="id-1527">
+                                                                <g transform="translate(-17,-12.5)"
+                                                                    style="user-select: none;"><text x="0" y="25"
+                                                                        dy="-6.75">
+                                                                        <tspan>csk</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="20.063380281690144"
+                                                                transform="translate(192.377,20.555) rotate(90)">
+                                                                <g transform="translate(-42,-12.5)"
+                                                                    style="user-select: none;"><text x="0" y="24.5"
+                                                                        dy="-6.615">
+                                                                        <tspan>cricketer</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="20.063380281690144"
+                                                                transform="translate(-19.229,131.747)">
+                                                                <g transform="translate(-47.5,-12.5)"
+                                                                    style="user-select: none;"><text x="0" y="24.5"
+                                                                        dy="-6.615">
+                                                                        <tspan>instagram</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="19.594366197183103"
+                                                                transform="translate(224.824,3.746) rotate(90)">
+                                                                <g transform="translate(-51.5,-12)"
+                                                                    style="user-select: none;"><text x="0" y="23.5"
+                                                                        dy="-6.345">
+                                                                        <tspan>cricketfans</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="19.594366197183103"
+                                                                transform="translate(116.731,-106.147)">
+                                                                <g transform="translate(-43,-12)"
+                                                                    style="user-select: none;"><text x="0" y="23.5"
+                                                                        dy="-6.345">
+                                                                        <tspan>worldcup</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="18.656338028169017"
+                                                                transform="translate(-140.934,-104.056)">
+                                                                <g transform="translate(-51.5,-11.5)"
+                                                                    style="user-select: none;"><text x="0" y="22.5"
+                                                                        dy="-6.075">
+                                                                        <tspan>cricketlover</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="18.656338028169017"
+                                                                transform="translate(166.783,63.865)" id="id-1539">
+                                                                <g transform="translate(-14.5,-11.5)"
+                                                                    style="user-select: none;"><text x="0" y="22.5"
+                                                                        dy="-6.075">
+                                                                        <tspan>rcb</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="18.656338028169017"
+                                                                transform="translate(-163.865,-75.02)" id="id-1541">
+                                                                <g transform="translate(-23.5,-11.5)"
+                                                                    style="user-select: none;"><text x="0" y="22.5"
+                                                                        dy="-6.075">
+                                                                        <tspan>silver</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="17.24929577464789"
+                                                                transform="translate(-179.032,56.793)" id="id-1543">
+                                                                <g transform="translate(-18,-10.5)"
+                                                                    style="user-select: none;"><text x="0" y="20.5"
+                                                                        dy="-5.535">
+                                                                        <tspan>gold</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="16.780281690140846"
+                                                                transform="translate(-143.583,86.567)" id="id-1545">
+                                                                <g transform="translate(-29.5,-10.5)"
+                                                                    style="user-select: none;"><text x="0" y="20.5"
+                                                                        dy="-5.535">
+                                                                        <tspan>sterling</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="16.3112676056338"
+                                                                transform="translate(134.077,101.563)">
+                                                                <g transform="translate(-25.5,-10)"
+                                                                    style="user-select: none;"><text x="0" y="20"
+                                                                        dy="-5.4">
+                                                                        <tspan>klrahul</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="16.3112676056338"
+                                                                transform="translate(-3.652,-136.75)">
+                                                                <g transform="translate(-42,-10)"
+                                                                    style="user-select: none;"><text x="0" y="20"
+                                                                        dy="-5.4">
+                                                                        <tspan>lovecricket</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="16.3112676056338"
+                                                                transform="translate(84.34,-127.072)" id="id-1551">
+                                                                <g transform="translate(-25,-10)"
+                                                                    style="user-select: none;"><text x="0" y="20"
+                                                                        dy="-5.4">
+                                                                        <tspan>sports</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="15.842253521126763"
+                                                                transform="translate(202.374,-59.106) rotate(90)">
+                                                                <g transform="translate(-36.5,-10)"
+                                                                    style="user-select: none;"><text x="0" y="19.5"
+                                                                        dy="-5.265">
+                                                                        <tspan>cricketlife</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="15.842253521126763"
+                                                                transform="translate(-213.077,-58.861) rotate(90)">
+                                                                <g transform="translate(-35,-10)"
+                                                                    style="user-select: none;"><text x="0" y="19.5"
+                                                                        dy="-5.265">
+                                                                        <tspan>purchase</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="15.37323943661972"
+                                                                transform="translate(-236.641,-46.08) rotate(90)">
+                                                                <g transform="translate(-43,-9.5)"
+                                                                    style="user-select: none;"><text x="0" y="18.5"
+                                                                        dy="-4.995">
+                                                                        <tspan>cricketfever</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="14.435211267605634"
+                                                                transform="translate(92.181,128.754)" id="id-1559">
+                                                                <g transform="translate(-52,-9)"
+                                                                    style="user-select: none;"><text x="0" y="17.5"
+                                                                        dy="-4.725">
+                                                                        <tspan>cricketmerijaan</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="14.435211267605634"
+                                                                transform="translate(-207.202,39.107)" id="id-1561">
+                                                                <g transform="translate(-11.5,-9)"
+                                                                    style="user-select: none;"><text x="0" y="17.5"
+                                                                        dy="-4.725">
+                                                                        <tspan>like</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="13.966197183098593"
+                                                                transform="translate(-110.392,124.697)" id="id-1563">
+                                                                <g transform="translate(-27,-8.5)"
+                                                                    style="user-select: none;"><text x="0" y="17"
+                                                                        dy="-4.59">
+                                                                        <tspan>earrings</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="13.497183098591552"
+                                                                transform="translate(184.294,-93.386) rotate(90)">
+                                                                <g transform="translate(-40.5,-8.5)"
+                                                                    style="user-select: none;"><text x="0" y="16.5"
+                                                                        dy="-4.455">
+                                                                        <tspan>deliveringjoy</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="13.497183098591552"
+                                                                transform="translate(-88.853,-144.742) rotate(90)"
+                                                                id="id-1567">
+                                                                <g transform="translate(-29,-8.5)"
+                                                                    style="user-select: none;"><text x="0" y="16.5"
+                                                                        dy="-4.455">
+                                                                        <tspan>including</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="13.497183098591552"
+                                                                transform="translate(-127.484,-121.945)" id="id-1569">
+                                                                <g transform="translate(-21.5,-8.5)"
+                                                                    style="user-select: none;"><text x="0" y="16.5"
+                                                                        dy="-4.455">
+                                                                        <tspan>shoplc</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="13.028169014084508"
+                                                                transform="translate(-36.391,33.041)" id="id-1571">
+                                                                <g transform="translate(-10.5,-8)"
+                                                                    style="user-select: none;"><text x="0" y="15.5"
+                                                                        dy="-4.185">
+                                                                        <tspan>link</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="13.028169014084508"
+                                                                transform="translate(-188.723,82.291)" id="id-1573">
+                                                                <g transform="translate(-14,-8)"
+                                                                    style="user-select: none;"><text x="0" y="15.5"
+                                                                        dy="-4.185">
+                                                                        <tspan>virat</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="12.559154929577465"
+                                                                transform="translate(13.99,-155.209)" id="id-1575">
+                                                                <g transform="translate(-29,-7.5)"
+                                                                    style="user-select: none;"><text x="0" y="15"
+                                                                        dy="-4.05">
+                                                                        <tspan>clearance</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="12.559154929577465"
+                                                                transform="translate(-225.969,31.99)">
+                                                                <g transform="translate(-15,-7.5)"
+                                                                    style="user-select: none;"><text x="0" y="15"
+                                                                        dy="-4.05">
+                                                                        <tspan>shop</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="12.090140845070422"
+                                                                transform="translate(-147.756,109.266)" id="id-1579">
+                                                                <g transform="translate(-21,-7.5)"
+                                                                    style="user-select: none;"><text x="0" y="14.5"
+                                                                        dy="-3.915">
+                                                                        <tspan>jewelry</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="12.090140845070422"
+                                                                transform="translate(-47.087,-14.993) rotate(90)"
+                                                                id="id-1581">
+                                                                <g transform="translate(-13,-7.5)"
+                                                                    style="user-select: none;"><text x="0" y="14.5"
+                                                                        dy="-3.915">
+                                                                        <tspan>kelly</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="12.090140845070422"
+                                                                transform="translate(217.885,63.584)" id="id-1583">
+                                                                <g transform="translate(-13.5,-7.5)"
+                                                                    style="user-select: none;"><text x="0" y="14.5"
+                                                                        dy="-3.915">
+                                                                        <tspan>kohli</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="11.621126760563381"
+                                                                transform="translate(195.399,87.652)">
+                                                                <g transform="translate(-17.5,-7.5)"
+                                                                    style="user-select: none;"><text x="0" y="14.5"
+                                                                        dy="-3.915">
+                                                                        <tspan>yellow</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="11.152112676056339"
+                                                                transform="translate(-217.92,70.884) rotate(90)">
+                                                                <g transform="translate(-13,-7)"
+                                                                    style="user-select: none;"><text x="0" y="13.5"
+                                                                        dy="-3.645">
+                                                                        <tspan>meal</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="10.683098591549296"
+                                                                transform="translate(29.168,-30.231) rotate(90)"
+                                                                id="id-1589">
+                                                                <g transform="translate(-15,-6.5)"
+                                                                    style="user-select: none;"><text x="0" y="13"
+                                                                        dy="-3.51">
+                                                                        <tspan>follow</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="10.683098591549296"
+                                                                transform="translate(235.164,-59.285)">
+                                                                <g transform="translate(-18.5,-6.5)"
+                                                                    style="user-select: none;"><text x="0" y="13"
+                                                                        dy="-3.51">
+                                                                        <tspan>perfect</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="10.683098591549296"
+                                                                transform="translate(-27.58,45.901)">
+                                                                <g transform="translate(-14,-6.5)"
+                                                                    style="user-select: none;"><text x="0" y="13"
+                                                                        dy="-3.51">
+                                                                        <tspan>white</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="10.214084507042255"
+                                                                transform="translate(77.301,142.429)">
+                                                                <g transform="translate(-33,-6.5)"
+                                                                    style="user-select: none;"><text x="0" y="12.5"
+                                                                        dy="-3.375">
+                                                                        <tspan>hardikpandya</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="10.214084507042255"
+                                                                transform="translate(21.738,159.319)">
+                                                                <g transform="translate(-38.5,-6.5)"
+                                                                    style="user-select: none;"><text x="0" y="12.5"
+                                                                        dy="-3.375">
+                                                                        <tspan>htmlutm_source</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="10.214084507042255"
+                                                                transform="translate(-45.701,-152.497)" id="id-1599">
+                                                                <g transform="translate(-25,-6.5)"
+                                                                    style="user-select: none;"><text x="0" y="12.5"
+                                                                        dy="-3.375">
+                                                                        <tspan>httpswww</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="10.214084507042255"
+                                                                transform="translate(253.563,-14.476) rotate(90)">
+                                                                <g transform="translate(-24,-6.5)"
+                                                                    style="user-select: none;"><text x="0" y="12.5"
+                                                                        dy="-3.375">
+                                                                        <tspan>influencer</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="10.214084507042255"
+                                                                transform="translate(-102.651,-141.107) rotate(90)">
+                                                                <g transform="translate(-10.5,-6.5)"
+                                                                    style="user-select: none;"><text x="0" y="12.5"
+                                                                        dy="-3.375">
+                                                                        <tspan>item</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="10.214084507042255"
+                                                                transform="translate(242.687,49.675) rotate(90)">
+                                                                <g transform="translate(-21.5,-6.5)"
+                                                                    style="user-select: none;"><text x="0" y="12.5"
+                                                                        dy="-3.375">
+                                                                        <tspan>kingkohli</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="10.214084507042255"
+                                                                transform="translate(87.285,-146.237)">
+                                                                <g transform="translate(-19.5,-6.5)"
+                                                                    style="user-select: none;"><text x="0" y="12.5"
+                                                                        dy="-3.375">
+                                                                        <tspan>summer</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="10.214084507042255"
+                                                                transform="translate(-81.912,152.273)">
+                                                                <g transform="translate(-31,-6.5)"
+                                                                    style="user-select: none;"><text x="0" y="12.5"
+                                                                        dy="-3.375">
+                                                                        <tspan>utm_medium</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="9.745070422535212"
+                                                                transform="translate(-88.685,-26.083)">
+                                                                <g transform="translate(-7.5,-6)"
+                                                                    style="user-select: none;"><text x="0" y="12"
+                                                                        dy="-3.24">
+                                                                        <tspan>bio</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="9.745070422535212"
+                                                                transform="translate(140.83,-129.688) rotate(90)">
+                                                                <g transform="translate(-14,-6)"
+                                                                    style="user-select: none;"><text x="0" y="12"
+                                                                        dy="-3.24">
+                                                                        <tspan>check</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="9.745070422535212"
+                                                                transform="translate(-261.849,-11.749)">
+                                                                <g transform="translate(-15,-6)"
+                                                                    style="user-select: none;"><text x="0" y="12"
+                                                                        dy="-3.24">
+                                                                        <tspan>dream</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="9.745070422535212"
+                                                                transform="translate(-236.085,69.299)">
+                                                                <g transform="translate(-12,-6)"
+                                                                    style="user-select: none;"><text x="0" y="12"
+                                                                        dy="-3.24">
+                                                                        <tspan>need</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="9.745070422535212"
+                                                                transform="translate(-255.901,34.347) rotate(90)">
+                                                                <g transform="translate(-37,-6)"
+                                                                    style="user-select: none;"><text x="0" y="12"
+                                                                        dy="-3.24">
+                                                                        <tspan>sachintendulkar</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="9.745070422535212"
+                                                                transform="translate(-203.933,100.542)" id="id-1621">
+                                                                <g transform="translate(-11,-6)"
+                                                                    style="user-select: none;"><text x="0" y="12"
+                                                                        dy="-3.24">
+                                                                        <tspan>save</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="9.745070422535212"
+                                                                transform="translate(-181.747,-118.733)">
+                                                                <g transform="translate(-19.5,-6)"
+                                                                    style="user-select: none;"><text x="0" y="12"
+                                                                        dy="-3.24">
+                                                                        <tspan>sitewide</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="9.27605633802817"
+                                                                transform="translate(191.314,105.807)">
+                                                                <g transform="translate(-15.5,-5.5)"
+                                                                    style="user-select: none;"><text x="0" y="11"
+                                                                        dy="-2.97">
+                                                                        <tspan>beauty</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="9.27605633802817"
+                                                                transform="translate(-123.325,141.476)">
+                                                                <g transform="translate(-12,-5.5)"
+                                                                    style="user-select: none;"><text x="0" y="11"
+                                                                        dy="-2.97">
+                                                                        <tspan>chain</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="9.27605633802817"
+                                                                transform="translate(66.85,-18.886)" id="id-1629">
+                                                                <g transform="translate(-24,-5.5)"
+                                                                    style="user-select: none;"><text x="0" y="11"
+                                                                        dy="-2.97">
+                                                                        <tspan>cricketlove</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="9.27605633802817"
+                                                                transform="translate(-146.863,-136.265)">
+                                                                <g transform="translate(-28.5,-5.5)"
+                                                                    style="user-select: none;"><text x="0" y="11"
+                                                                        dy="-2.97">
+                                                                        <tspan>cricketmatch</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="9.27605633802817"
+                                                                transform="translate(170.261,119.013)" id="id-1633">
+                                                                <g transform="translate(-17.5,-5.5)"
+                                                                    style="user-select: none;"><text x="0" y="11"
+                                                                        dy="-2.97">
+                                                                        <tspan>crickets</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="9.27605633802817"
+                                                                transform="translate(101.352,156.648)">
+                                                                <g transform="translate(-27,-5.5)"
+                                                                    style="user-select: none;"><text x="0" y="11"
+                                                                        dy="-2.97">
+                                                                        <tspan>cricketworld</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="9.27605633802817"
+                                                                transform="translate(-156.426,139.99)">
+                                                                <g transform="translate(-19.5,-5.5)"
+                                                                    style="user-select: none;"><text x="0"
+                                                                        y="11.002556800842285" dy="-2.971">
+                                                                        <tspan>handbag</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="9.27605633802817"
+                                                                transform="translate(-202.021,115.976)">
+                                                                <g transform="translate(-23.5,-5.5)"
+                                                                    style="user-select: none;"><text x="0" y="11"
+                                                                        dy="-2.97">
+                                                                        <tspan>sponsored</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="9.27605633802817"
+                                                                transform="translate(124.18,-146.434) rotate(90)">
+                                                                <g transform="translate(-15,-5.5)"
+                                                                    style="user-select: none;"><text x="0" y="11"
+                                                                        dy="-2.97">
+                                                                        <tspan>utm_id</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="8.807042253521127"
+                                                                transform="translate(267.55,23.369)">
+                                                                <g transform="translate(-13.5,-5.5)"
+                                                                    style="user-select: none;"><text x="0" y="10.5"
+                                                                        dy="-2.835">
+                                                                        <tspan>promo</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="8.338028169014086"
+                                                                transform="translate(-110.903,9.062)">
+                                                                <g transform="translate(-17,-5)"
+                                                                    style="user-select: none;"><text x="0" y="10"
+                                                                        dy="-2.7">
+                                                                        <tspan>discount</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="8.338028169014086"
+                                                                transform="translate(-202.112,-105.119)">
+                                                                <g transform="translate(-11,-5)"
+                                                                    style="user-select: none;"><text x="0" y="10"
+                                                                        dy="-2.7">
+                                                                        <tspan>dress</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="8.338028169014086"
+                                                                transform="translate(-161.112,126.424)">
+                                                                <g transform="translate(-10,-5)"
+                                                                    style="user-select: none;"><text x="0" y="10"
+                                                                        dy="-2.7">
+                                                                        <tspan>hoop</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="8.338028169014086"
+                                                                transform="translate(36.978,-58.675)" id="id-1651">
+                                                                <g transform="translate(-14,-5)"
+                                                                    style="user-select: none;"><text x="0" y="10"
+                                                                        dy="-2.7">
+                                                                        <tspan>hunger</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="8.338028169014086"
+                                                                transform="translate(165.288,81.583)">
+                                                                <g transform="translate(-8.5,-5)"
+                                                                    style="user-select: none;"><text x="0" y="10"
+                                                                        dy="-2.7">
+                                                                        <tspan>mini</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="8.338028169014086"
+                                                                transform="translate(68.19,-159.551)">
+                                                                <g transform="translate(-17.5,-5)"
+                                                                    style="user-select: none;"><text x="0" y="10"
+                                                                        dy="-2.7">
+                                                                        <tspan>products</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="8.338028169014086"
+                                                                transform="translate(161.303,-19.403)">
+                                                                <g transform="translate(-17,-5)"
+                                                                    style="user-select: none;"><text x="0" y="10"
+                                                                        dy="-2.7">
+                                                                        <tspan>virushka</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="7.869014084507043"
+                                                                transform="translate(-270.752,-38.786)">
+                                                                <g transform="translate(-21.5,-5)"
+                                                                    style="user-select: none;"><text x="0" y="9.5"
+                                                                        dy="-2.565">
+                                                                        <tspan>abdevilliers</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="7.869014084507043"
+                                                                transform="translate(-45.784,167.161)">
+                                                                <g transform="translate(-16.5,-5)"
+                                                                    style="user-select: none;"><text x="0" y="9.5"
+                                                                        dy="-2.565">
+                                                                        <tspan>beautiful</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="7.869014084507043"
+                                                                transform="translate(141.381,144.002)">
+                                                                <g transform="translate(-18.5,-5)"
+                                                                    style="user-select: none;"><text x="0" y="9.5"
+                                                                        dy="-2.565">
+                                                                        <tspan>cricketers</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="7.869014084507043"
+                                                                transform="translate(-180.282,128.752) rotate(90)">
+                                                                <g transform="translate(-7.5,-5)"
+                                                                    style="user-select: none;"><text x="0" y="9.5"
+                                                                        dy="-2.565">
+                                                                        <tspan>end</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="7.869014084507043"
+                                                                transform="translate(-251.53,-73.875) rotate(90)"
+                                                                id="id-1667">
+                                                                <g transform="translate(-10.5,-5)"
+                                                                    style="user-select: none;"><text x="0" y="9.5"
+                                                                        dy="-2.565">
+                                                                        <tspan>feeds</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="7.869014084507043"
+                                                                transform="translate(128,-123.75)" id="id-1669">
+                                                                <g transform="translate(-7,-5)"
+                                                                    style="user-select: none;"><text x="0" y="9.5"
+                                                                        dy="-2.565">
+                                                                        <tspan>feel</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="7.869014084507043"
+                                                                transform="translate(162.296,-131.7)">
+                                                                <g transform="translate(-14.5,-5)"
+                                                                    style="user-select: none;"><text x="0" y="9.5"
+                                                                        dy="-2.565">
+                                                                        <tspan>mission</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="7.869014084507043"
+                                                                transform="translate(-238.156,86.435)" id="id-1673">
+                                                                <g transform="translate(-15.5,-5)"
+                                                                    style="user-select: none;"><text x="0" y="9.5"
+                                                                        dy="-2.565">
+                                                                        <tspan>pendant</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="7.4"
+                                                                transform="translate(14.484,-173.784)">
+                                                                <g transform="translate(-28,-4.5)"
+                                                                    style="user-select: none;"><text x="0" y="9"
+                                                                        dy="-2.43">
+                                                                        <tspan>anushkasharma</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="7.4"
+                                                                transform="translate(-277.017,7.311)">
+                                                                <g transform="translate(-16,-4.5)"
+                                                                    style="user-select: none;"><text x="0" y="9"
+                                                                        dy="-2.43">
+                                                                        <tspan>elegance</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="7.4"
+                                                                transform="translate(-143.05,-148.814)">
+                                                                <g transform="translate(-11.5,-4.5)"
+                                                                    style="user-select: none;"><text x="0" y="9"
+                                                                        dy="-2.43">
+                                                                        <tspan>gifted</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="7.4"
+                                                                transform="translate(247.509,-85.733)">
+                                                                <g transform="translate(-16.5,-4.5)"
+                                                                    style="user-select: none;"><text x="0" y="9"
+                                                                        dy="-2.43">
+                                                                        <tspan>giftideas</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="7.4"
+                                                                transform="translate(231.287,-101.335) rotate(90)">
+                                                                <g transform="translate(-8.5,-4.5)"
+                                                                    style="user-select: none;"><text x="0" y="9"
+                                                                        dy="-2.43">
+                                                                        <tspan>guys</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="7.4"
+                                                                transform="translate(-267.101,-47.786)">
+                                                                <g transform="translate(-18.5,-4.5)"
+                                                                    style="user-select: none;"><text x="0" y="9"
+                                                                        dy="-2.43">
+                                                                        <tspan>intentional</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="7.4"
+                                                                transform="translate(-267.507,43.889)">
+                                                                <g transform="translate(-5,-4.5)"
+                                                                    style="user-select: none;"><text x="0" y="9"
+                                                                        dy="-2.43">
+                                                                        <tspan>it’s</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                            <g fill="currentColor" font-size="7.4"
+                                                                transform="translate(212.491,-115.789)">
+                                                                <g transform="translate(-9.5,-4.5)"
+                                                                    style="user-select: none;"><text x="0" y="9"
+                                                                        dy="-2.43">
+                                                                        <tspan>outfit</tspan>
+                                                                    </text></g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g>
+                                        <g>
+                                            <g>
+                                                <g></g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <style>
+    g[fill="currentColor"]{
+        filter: blur(5px);
+    }
+
+    </style>
+</svg>
