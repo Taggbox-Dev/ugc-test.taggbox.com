@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://ugc-test.taggbox.com/static/css/main.2f55f155.css",
-    "main.js": "https://ugc-test.taggbox.com/static/js/main.6340eeb7.js",
+    "main.js": "https://ugc-test.taggbox.com/static/js/main.9da3bb16.js",
     "static/js/8382.11145124.chunk.js": "https://ugc-test.taggbox.com/static/js/8382.11145124.chunk.js",
     "static/js/8508.8c864d7f.chunk.js": "https://ugc-test.taggbox.com/static/js/8508.8c864d7f.chunk.js",
     "static/js/1267.a9c33fae.chunk.js": "https://ugc-test.taggbox.com/static/js/1267.a9c33fae.chunk.js",
@@ -112,7 +112,7 @@
     "static/js/2281.a905d0b7.chunk.js": "https://ugc-test.taggbox.com/static/js/2281.a905d0b7.chunk.js",
     "static/js/9232.a0342dd3.chunk.js": "https://ugc-test.taggbox.com/static/js/9232.a0342dd3.chunk.js",
     "static/js/1435.7b2b6714.chunk.js": "https://ugc-test.taggbox.com/static/js/1435.7b2b6714.chunk.js",
-    "static/js/6200.67635864.chunk.js": "https://ugc-test.taggbox.com/static/js/6200.67635864.chunk.js",
+    "static/js/6200.a6da2969.chunk.js": "https://ugc-test.taggbox.com/static/js/6200.a6da2969.chunk.js",
     "static/js/1328.c36f66a6.chunk.js": "https://ugc-test.taggbox.com/static/js/1328.c36f66a6.chunk.js",
     "static/js/7807.0aa821d7.chunk.js": "https://ugc-test.taggbox.com/static/js/7807.0aa821d7.chunk.js",
     "static/js/9406.75974d36.chunk.js": "https://ugc-test.taggbox.com/static/js/9406.75974d36.chunk.js",
@@ -127,6 +127,6 @@
   },
   "entrypoints": [
     "static/css/main.2f55f155.css",
-    "static/js/main.6340eeb7.js"
+    "static/js/main.9da3bb16.js"
   ]
 }
